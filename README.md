@@ -21,6 +21,7 @@
             <li><a href="gallery.html">Фотоальбом</a></li>
             <li><a href="form.html">Контакти</a></li>
             <li><a href="Anketa.html">Моя анкета</a></li>
+	    <li><a href="Calendar.html">Calendar</a></li>
 
           </ul>
        </nav>
